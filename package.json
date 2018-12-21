@@ -1,20 +1,20 @@
 {
-  "name": "bitandbang",
-  "version": "1.1.0",
-  "description": "A personal card for Tierney Cyren (@bitandbang)",
+  "name": "twofik",
+  "version": "1.1.7",
+  "description": "A personal card for Toufik Khattara (@toufikimk)",
   "main": "index.js",
   "bin": {
-    "bitandbang": "./bin/card.js"
+    "twofik": "./bin/card.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bnb/bitandbang.git"
+    "url": "git+https://github.com/toufikImk/bitandbang.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Tierney Cyren <hello@bnb.im> (http://bnb.im)",
+  "author": "Toufik Khattara <toufik.imk@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "boxen": "^2.1.0",
@@ -22,5 +22,9 @@
   },
   "devDependencies": {
     "standard": "^12.0.1"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/toufikImk/bitandbang/issues"
+  },
+  "homepage": "https://github.com/toufikImk/bitandbang#readme"
 }
